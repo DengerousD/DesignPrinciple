@@ -1,0 +1,15 @@
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\bin\Debug\net8.0\DesignPrinciples.exe
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\bin\Debug\net8.0\DesignPrinciples.deps.json
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\bin\Debug\net8.0\DesignPrinciples.runtimeconfig.json
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\bin\Debug\net8.0\DesignPrinciples.dll
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\bin\Debug\net8.0\DesignPrinciples.pdb
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.AssemblyInfoInputs.cache
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.AssemblyInfo.cs
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.csproj.CoreCompileInputs.cache
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.sourcelink.json
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.dll
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\refint\DesignPrinciples.dll
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.pdb
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\DesignPrinciples.genruntimeconfig.cache
+C:\UnityProjectText\DesignPrinciple\DesignPrinciples\DesignPrinciples\obj\Debug\net8.0\ref\DesignPrinciples.dll
